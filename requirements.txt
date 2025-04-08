@@ -1,0 +1,24 @@
+Last login: Tue Apr  8 11:12:03 on ttys000
+(base) chiaradalisca@MacBook-Air-di-Chiara ~ % 
+(base) chiaradalisca@MacBook-Air-di-Chiara ~ % streamlitstreamlit
+zsh: command not found: streamlitstreamlit
+(base) chiaradalisca@MacBook-Air-di-Chiara ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
